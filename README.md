@@ -1,4 +1,4 @@
-# global_heart_health
+# Global Heart Health
 A data visualization project on trends in heart disease globally.
 
 ## Data sources
